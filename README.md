@@ -7,7 +7,7 @@
 # Nội dung
 - Xây dựng 1 trang web bán quần áo như hình bên dưới
 
-![web_fashion]()
+![web_fashion](https://github.com/anhtbok92/flexboxAndLayoutReactNativeTraining/blob/master/flexBox.PNG)
 
 # Hướng dẫn
 - Chia ảnh trên thành các component <Header />, <Banner /> và <ContentContainer />
