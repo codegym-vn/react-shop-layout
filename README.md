@@ -10,6 +10,6 @@
 ![web_fashion](https://github.com/anhtbok92/flexboxAndLayoutReactNativeTraining/blob/master/flexBox.PNG)
 
 # Hướng dẫn
-- Chia ảnh trên thành các component <Header />, <Banner /> và <ContentContainer />
-- Sử dụng các kiến thức css căn bản đã học để căn chỉnh giao diện
-- Sử dụng các thuộc tính flexDirection để chỉnh layout
+- Chia ảnh trên thành các component Header, Banner và ContentContainer.
+- Sử dụng các kiến thức css căn bản đã học để căn chỉnh giao diện.
+- Sử dụng các thuộc tính flexDirection để chỉnh layout.
